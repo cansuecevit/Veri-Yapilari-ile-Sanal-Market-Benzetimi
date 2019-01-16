@@ -1,0 +1,35 @@
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\sanalmarket\sanalmarket\bin\Debug\sanalmarket.exe.config
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\sanalmarket\sanalmarket\obj\Debug\sanalmarket.csprojResolveAssemblyReference.cache
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\sanalmarket\sanalmarket\obj\Debug\sanalmarket.Form1.resources
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\sanalmarket\sanalmarket\obj\Debug\sanalmarket.Properties.Resources.resources
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\sanalmarket\sanalmarket\obj\Debug\sanalmarket.csproj.GenerateResource.Cache
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\sanalmarket\sanalmarket\bin\Debug\sanalmarket.exe
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\sanalmarket\sanalmarket\bin\Debug\sanalmarket.pdb
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\sanalmarket\sanalmarket\obj\Debug\sanalmarket.exe
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\sanalmarket\sanalmarket\obj\Debug\sanalmarket.pdb
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\bin\Debug\sanalmarket.exe.config
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\obj\Debug\sanalmarket.exe
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\obj\Debug\sanalmarket.pdb
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\bin\Debug\sanalmarket.exe
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\bin\Debug\sanalmarket.pdb
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\obj\Debug\sanalmarket.csprojResolveAssemblyReference.cache
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\obj\Debug\sanalmarket.Form1.resources
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\obj\Debug\sanalmarket.Properties.Resources.resources
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\obj\Debug\sanalmarket.csproj.GenerateResource.Cache
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\obj\Debug\sanalmarket.MusteriGirisi.resources
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\obj\Debug\sanalmarket.Yorum_Yap.resources
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\obj\Debug\sanalmarket.EtiketArama.resources
+C:\Users\Cansu Ecevit\Desktop\sanalmarket\sanalmarket\obj\Debug\sanalmarket.PersonelGirişi.resources
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\bin\Debug\sanalmarket.exe.config
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\bin\Debug\sanalmarket.exe
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\bin\Debug\sanalmarket.pdb
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\obj\Debug\sanalmarket.csprojResolveAssemblyReference.cache
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\obj\Debug\sanalmarket.EtiketArama.resources
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\obj\Debug\sanalmarket.Form1.resources
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\obj\Debug\sanalmarket.MusteriGirisi.resources
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\obj\Debug\sanalmarket.PersonelGirişi.resources
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\obj\Debug\sanalmarket.Properties.Resources.resources
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\obj\Debug\sanalmarket.Yorum_Yap.resources
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\obj\Debug\sanalmarket.csproj.GenerateResource.Cache
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\obj\Debug\sanalmarket.exe
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Aytuğ\sanalmarket\sanalmarket\obj\Debug\sanalmarket.pdb
